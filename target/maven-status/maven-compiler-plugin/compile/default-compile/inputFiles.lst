@@ -1,0 +1,17 @@
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/model/Destination.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/controller/DefaultController.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/controller/DestinationController.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/repository/RoleRepository.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/config/SecurityConfig.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/repository/UserRepository.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/repository/ReservationRepository.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/model/User.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/service/CustomUserDetailsService.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/model/Reservation.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/service/DestinationService.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/repository/DestinationRepository.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/model/Role.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/service/ReservationService.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/dto/UserRegistrationDTO.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/TravelAgencyApiApplication.java
+/home/james/Documents/Sr. Joseli/agenciaViagens_novo/src/main/java/com/api/travelagency/controller/AuthController.java

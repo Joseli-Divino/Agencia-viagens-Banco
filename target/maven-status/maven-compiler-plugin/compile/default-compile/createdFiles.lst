@@ -1,0 +1,17 @@
+com/api/travelagency/controller/AuthController.class
+com/api/travelagency/model/Reservation.class
+com/api/travelagency/model/User.class
+com/api/travelagency/model/Destination.class
+com/api/travelagency/service/CustomUserDetailsService.class
+com/api/travelagency/dto/UserRegistrationDTO.class
+com/api/travelagency/config/SecurityConfig.class
+com/api/travelagency/repository/ReservationRepository.class
+com/api/travelagency/service/DestinationService.class
+com/api/travelagency/service/ReservationService.class
+com/api/travelagency/controller/DestinationController.class
+com/api/travelagency/repository/RoleRepository.class
+com/api/travelagency/TravelAgencyApiApplication.class
+com/api/travelagency/model/Role.class
+com/api/travelagency/controller/DefaultController.class
+com/api/travelagency/repository/UserRepository.class
+com/api/travelagency/repository/DestinationRepository.class
